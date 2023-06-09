@@ -1,0 +1,82 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Ordinateur Portable",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":2,
+            "name":"Ordinateur Portable",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":3,
+            "name":"Ordinateur Portable",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":4,
+            "name":"Ordinateur Portable",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":5,
+            "name":"Ordinateur Portable",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":6,
+            "name":"Ordinateur Portable",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":7,
+            "name":"Surface pro 9",
+            "price":850000,
+            "checked":true
+
+        },
+        {
+            "id":8,
+            "name":"Dell Optiplex 7080",
+            "price":150000,
+            "checked":false
+
+        },
+        {
+            "id":9,
+            "name":" Iphone XR",
+            "price":220000,
+            "checked":true
+
+        },
+        {
+            "id":10,
+            "name":"Samsung D800",
+            "price":220000,
+            "checked":false
+
+        },
+        {
+            "id":11,
+            "name":"Telephone Portable",
+            "price":220000,
+            "checked":true
+
+        }
+
+    ]
+}
